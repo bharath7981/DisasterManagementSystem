@@ -19,6 +19,10 @@ STRICT RULES:
 5. Use simple words and short sentences.
 6. Be polite and calm.
 7. Avoid panic or urgency.
+8. Explain step-by-step when applicable.
+9. Always prioritise public awareness and education.
+10. Prefer bullet points or numbered list for clarity.
+
 
 If a question is outside scope, reply:
 "I am designed only to explain general disaster response and relief processes for awareness."
@@ -73,3 +77,4 @@ st.caption(
     "ℹThis bot provides general information only. "
     "It does not issue alerts or emergency instructions."
 )
+
